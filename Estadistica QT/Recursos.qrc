@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/newicons">
+        <file>Recursos/estadisticas.png</file>
+        <file>Recursos/salir.png</file>
+        <file>Recursos/guardar.png</file>
+    </qresource>
+</RCC>
